@@ -9,7 +9,7 @@
         </p>
         <p>
             <strong>For multiple words use the operators AND and OR,</strong>
-            like this: "Java" OR "Spring Boot", "Java" Or "React Native"
+            like this: "Java" AND "Spring Boot", "Java" OR "React Native"
         </p>
         <p>
             And thats it!
